@@ -1,0 +1,23 @@
+This weather dataset was collected in 2 years. It contains various weather features like temperature, water level, fire hazard level, wind speed and more.
+
+water_level: level of water in cm
+precipitation: precipitation in mm
+temperature: temperature in Celsius
+humidity: humidity in %
+visibility: visibility in km
+wind: speed of wind in m/s
+weather: general weather condition
+0 - Partly Cloudy
+1 - Cloudy
+2 - Clear
+3 - Rain
+4 - Strong Wind
+5 - Fog
+6 - Mist
+7 - Snow
+8 - Storm
+pressure: pressure in GPa
+fire: level of fire hazard
+wl_change: change of water level in cm
+temp_change: change of temperature in Celsius
+pressure_change: change of pressure in GPa
